@@ -34,10 +34,6 @@
  
 <br/>
 
-<hr/>
-
-<hr/>
-
 <h2 align="center">⚡ Streak ⚡</h2>
 <br>
 <div align=center>
