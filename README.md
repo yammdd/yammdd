@@ -3,11 +3,12 @@
         <img src="https://readme-typing-svg.demolab.com?font=&weight=500&letterSpacing=1px&duration=4000&pause=700&color=219CE5E5&center=true&vCenter=true&width=450&height=60&lines=Hello!+I'm+Yamm.;+Nice+to+see+you+here!" alt="Typing SVG" />
     </a>
 </h1>
-
-<br/>
-<img src="assets/banner.png" width="800" align = "center" />
-<br/>
-<img src="assets/side.gif" width="300" align="right" />
+<div align = "center">
+    <br/>
+    <img src="assets/banner.png" width="700"/>
+    <br/>
+</div>
+    <img src="assets/side.gif" width="300" align="right" />
 
 
 <h3 align="center">A student from University of Engineering & Technology - Vietnam National University</h3>
