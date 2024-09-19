@@ -6,9 +6,9 @@
 
 <br/>
 <br/>
-<img src="assets/banner.png" width="450" align = "center" />
+<img src="assets/banner.png" width="600" align = "center" />
 <br/>
-<img src="assets/side.gif" width="350" align="right" />
+<img src="assets/side.gif" width="250" align="right" />
 
 
 <h3 align="center">A student from University of Engineering & Technology - Vietnam National University</h3>
