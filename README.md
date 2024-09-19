@@ -6,10 +6,10 @@
 
 <br/>
 <br/>
-<img src="assets/banner.png" width="450" />
-
+<img src="assets/banner.png" width="450" align = "center" />
 <br/>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yammn.Yammn" />
+<img src="assets/side.gif" width="350" align="right" />
+
 
 <h3 align="center">A student from University of Engineering & Technology - Vietnam National University</h3>
 
