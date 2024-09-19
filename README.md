@@ -11,7 +11,7 @@
 <br/>
     <img src="assets/side.gif" width="300" align="right" />
 ## 💫 Discord Presence
-[![Discord Presence](https://lanyard.cnrad.dev/api/849654032171925546?theme=dark&bg=050c5e)](https://discord.com/users/849654032171925546)
+![Discord Presence](https://lanyard.cnrad.dev/api/849654032171925546?theme=dark&bg=050c5e&showDisplayName=true&animated=true)
 
 <h3 align="center">A student from University of Engineering & Technology - Vietnam National University</h3>
 
