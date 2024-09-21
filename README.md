@@ -17,7 +17,6 @@
 ## ✍️ About myself
 <h3 align="center">A student from University of Engineering & Technology - Vietnam National University</h3>
 <a><img height=150 align="right" src="https://github-readme-stats.vercel.app/api?username=yammn&show_icons=true&theme=dracula" /></a>
-<a><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yammn&layout=compact&theme=dracula&langs_count=6&size_weight=0&count_weight=1" /></a>
 
 <div align="center">
     <p>🔭 I’m currently studying at <strong>VNU - UET</strong></p>
