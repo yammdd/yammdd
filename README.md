@@ -12,11 +12,12 @@
 
 ## 💫 Discord Presence
 ![Discord Presence](https://lanyard.cnrad.dev/api/849654032171925546?theme=dark&bg=050c5e&showDisplayName=true&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Just%20wanna%20be%20a%20normal%20person%20in%20the%20world...)
-    <img src="assets/side.gif" width="400" align="right" />
+    <img src="assets/side.gif" width="380" align="right" />
 
-## About myself
-<h3 align="left">A student from University of Engineering & Technology - Vietnam National University</h3>
+## ✍️ About myself
+<h3 align="center">A student from University of Engineering & Technology - Vietnam National University</h3>
 <a><img height=150 align="right" src="https://github-readme-stats.vercel.app/api?username=yammn&show_icons=true&theme=dracula" /></a>
+<a><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yammn&layout=compact&theme=dracula&langs_count=6&size_weight=0&count_weight=1" /></a>
 
 <div align="center">
     <p>🔭 I’m currently studying at <strong>VNU - UET</strong></p>
