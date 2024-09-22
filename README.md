@@ -16,14 +16,14 @@
 <br/>
 
 ## ✍️ About myself
-<h3 align="center">A student from University of Engineering & Technology - Vietnam National University</h3>
+
 <a><img height=160 align="right" src="https://github-readme-stats.vercel.app/api?username=yammn&show_icons=true&theme=dracula" /></a>
 
 <div align="left">
     <p>🔭 I’m currently studying at <strong>VNU - UET</strong></p>
     <p>🌱 I’m currently learning <strong>Artificial Intelligence</strong></p>
 </div>
-
+<br/>
 ## 🧑‍💻 Languages and Tools
 <div align="center">
     <p><b><i>Languages</i></b></p>
