@@ -23,7 +23,7 @@
     <p>🔭 I’m currently studying at <strong>VNU - UET</strong></p>
     <p>🌱 I’m currently learning <strong>Artificial Intelligence</strong></p>
 </div>
-    <img height=160 align="right" src="https://github-readme-stats.vercel.app/api?username=yammn&show_icons=true&theme=dracula" />
+
 <br/>
 
 ## 🧑‍💻 Languages and Tools
