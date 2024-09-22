@@ -13,6 +13,7 @@
 ## 💫 Discord Presence
 ![Discord Presence](https://lanyard.cnrad.dev/api/849654032171925546?theme=dark&bg=050c5e&showDisplayName=true&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Just%20wanna%20be%20a%20normal%20person%20in%20the%20world...)
     <img src="assets/side.gif" width="370" align="right" />
+<br/>
 
 ## ✍️ About myself
 <h3 align="center">A student from University of Engineering & Technology - Vietnam National University</h3>
