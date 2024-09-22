@@ -17,13 +17,15 @@
 
 ## ✍️ About myself
 
-<a><img height=160 align="right" src="https://github-readme-stats.vercel.app/api?username=yammn&show_icons=true&theme=dracula" /></a>
-
 <div align="left">
     <p>🔭 I’m currently studying at <strong>VNU - UET</strong></p>
     <p>🌱 I’m currently learning <strong>Artificial Intelligence</strong></p>
 </div>
+
+<a><img height=160 align="right" src="https://github-readme-stats.vercel.app/api?username=yammn&show_icons=true&theme=dracula" /></a>
+
 <br/>
+
 ## 🧑‍💻 Languages and Tools
 <div align="center">
     <p><b><i>Languages</i></b></p>
@@ -32,7 +34,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
     <p><b><i>Databases</i></b></p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />
-    <p><b><i>IDEs & devtools</i></b></p>
+    <p><b><i>IDEs & Devtools</i></b></p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40" />
