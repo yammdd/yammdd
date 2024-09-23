@@ -22,6 +22,7 @@
 <div align="left">
     <p>🔭 I’m currently studying at <strong>VNU - UET</strong></p>
     <p>🌱 I’m currently learning <strong>Artificial Intelligence</strong></p>
+    <p>😊 Improve myself</p>
 </div>
 
 <br/>
@@ -42,8 +43,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
 </div>
 
-<h2 align="center">⚡ Streak ⚡</h2>
-
+## ⚡ Streak
 <div align="center">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=Yammn&theme=dark" alt="GitHub Streak" />
