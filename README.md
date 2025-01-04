@@ -12,12 +12,12 @@
 
 ## 💫 Discord Presence
 ![Discord Presence](https://lanyard.cnrad.dev/api/849654032171925546?theme=dark&bg=050c5e&showDisplayName=true&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Just%20wanna%20be%20a%20normal%20person%20in%20the%20world...)
-    <img src="assets/side.gif" width="370" align="right" />
+    <img src="assets/side.gif" width="340" align="right" />
 <br/>
 
 ## ✍️ About myself
 
-<img height=160 align="right" src="https://github-readme-stats.vercel.app/api?username=yammn&show_icons=true&theme=dracula" />
+<img height=140 align="right" src="https://github-readme-stats.vercel.app/api?username=yammn&show_icons=true&theme=dracula" />
 <br/>
 <div align="left">
     <p>🔭 I’m currently studying at <strong>VNU - UET</strong></p>
