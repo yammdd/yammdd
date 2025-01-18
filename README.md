@@ -16,15 +16,17 @@
 
 
 ## ✍️ About Me  
-<div align="left">
-    <ul>
-        <li>🔭 I’m currently studying at <strong>VNU - UET</strong></li>
-        <li>🌱 I’m currently learning <strong>Artificial Intelligence</strong></li>
-        <li>😊 I’m always striving to improve myself</li>
-    </ul>
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="text-align: left; line-height: 1.8;">
+        🔭 I’m currently studying at <strong>VNU - UET</strong><br>
+        🌱 I’m currently learning <strong>Artificial Intelligence</strong><br>
+        😊 I’m always striving to improve myself
+    </div>
+    <br>
+    <div>
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=yammdd&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    </div>
 </div>
-
-<img align="right" height="150" src="https://github-readme-stats.vercel.app/api?username=yammdd&show_icons=true&theme=dracula" alt="GitHub Stats" />
 
 
 ## 🧑‍💻 Languages and Tools  
