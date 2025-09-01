@@ -55,7 +55,6 @@
         <tr>
             <th>IDEs & DevTools</th>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="40" height="40" alt="CLion" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="40" height="40" alt="DataGrip" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ" />
