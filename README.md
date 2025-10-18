@@ -8,13 +8,6 @@
     <img src="assets/banner.png" width="700" alt="Banner"/>
 </div>
 
-
-## 💫 Discord Presence  
-<div align="center">
-    <img src="https://lanyard.cnrad.dev/api/849654032171925546?theme=dark&bg=050c5e&showDisplayName=true&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Just%20wanna%20be%20a%20normal%20person%20in%20the%20world..." alt="Discord Presence"/>
-</div>  
-
-
 ## ✍️ About Me  
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
     <div style="text-align: left; line-height: 1.8;">
