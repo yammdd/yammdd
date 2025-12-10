@@ -15,10 +15,6 @@
         🌱 I’m currently learning <strong>Artificial Intelligence</strong><br>
         😊 I’m always striving to improve myself
     </div>
-    <br>
-    <div>
-        <img height="150" src="https://github-readme-stats.vercel.app/api?username=yammdd&show_icons=true&theme=dracula" alt="GitHub Stats" />
-    </div>
 </div>
 
 
